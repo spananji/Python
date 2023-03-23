@@ -1,2 +1,2 @@
-# Python
+# Python Execricse 
 Python practices
